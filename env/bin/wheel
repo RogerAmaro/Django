@@ -1,4 +1,5 @@
-#!/home/roger/Desktop/Django/env/bin/python
+#!/home/lab-pesquisa/Desktop/Django/env/bin/python3
+
 # -*- coding: utf-8 -*-
 import re
 import sys
